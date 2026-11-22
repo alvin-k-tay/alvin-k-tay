@@ -33,6 +33,7 @@ Can a model learn to perform psychometric inference across different instruments
 METER explores this question with simulation-trained neural and psychometric models. Initial results show promising transfer to previously unseen instruments, while identifying important boundaries of generalization and measurement validity.
 
 → [Research preprint](https://doi.org/10.21203/rs.3.rs-10910303/v1)
+→ [Code and reproducibility package](https://github.com/meter-psychometrics/meter-paper)
 
 ---
 
