@@ -14,6 +14,16 @@ I am now extending this work into artificial intelligence: building computationa
 
 ## What I'm working on
 
+### [Weftwell](https://weftwell.com) · AI Training & Assessment Infrastructure
+
+**Founder & Research Lead**
+
+Infrastructure for training and assessing interpersonal and helping skills through AI-simulated interactions, with structured feedback and competency-oriented assessment.
+
+The project asks how AI systems can scaffold skills development, and how we can establish whether performance in simulated interactions reflects transferable human competence.
+
+Currently in development and beta testing; empirical validation studies are planned.
+
 ### [METER](https://meterresearch.ai) · Pretrained Psychometric Inference
 
 **Co-founder & Principal Investigator**
@@ -23,16 +33,6 @@ Can a model learn to perform psychometric inference across different instruments
 METER explores this question with simulation-trained neural and psychometric models. Initial results show promising transfer to previously unseen instruments, while identifying important boundaries of generalization and measurement validity.
 
 → [Research preprint](https://doi.org/10.21203/rs.3.rs-10910303/v1)
-
-### [Weftwell](https://weftwell.com) · AI Conversational Practice & Assessment
-
-**Founder & Research Lead**
-
-AI-simulated conversations for practicing interpersonal and helping skills, with structured feedback and competency-oriented assessment.
-
-The project asks how AI can support skills development, and how we can establish whether performance in simulated interactions reflects transferable human competence.
-
-Currently in development and beta testing; empirical validation studies are planned.
 
 ---
 
@@ -79,4 +79,4 @@ My work combines psychological theory with quantitative and computational method
 
 I am interested in collaborations at the intersection of **psychological science, computational modeling, mechanistic interpretability, and empirical AI safety**, particularly projects that bring rigorous measurement and causal experimental methods to questions about AI capabilities and behavior.
 
-[LinkedIn](https://www.linkedin.com/in/alvinktay/) · [METER](https://meterresearch.ai) · [Weftwell](https://weftwell.com)
+[LinkedIn](https://www.linkedin.com/in/alvinktay/) · [Weftwell](https://weftwell.com) · [METER](https://meterresearch.ai)
