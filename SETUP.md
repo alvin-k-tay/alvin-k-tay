@@ -30,7 +30,7 @@ Settings → Public profile → Bio:
 Behavioral scientist | Columbia University | Psychometrics, computational measurement & AI evaluation | Founder of METER & Weftwell
 ```
 
-(131 characters.) Also fill in **Name**: Alvin K. Tay, PhD · **Company**: Teachers College, Columbia University · **Website**: https://meterresearch.ai · **Social accounts**: LinkedIn URL.
+(131 characters.) Also fill in **Name**: Alvin K. Tay, PhD · **Company**: Weftwell · **Website**: https://meterresearch.ai · **Social accounts**: LinkedIn URL.
 
 ## 3. Pinned repositories (later)
 
