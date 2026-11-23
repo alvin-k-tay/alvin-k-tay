@@ -4,7 +4,7 @@
 
 *Understanding human behavior. Measuring artificial intelligence.*
 
-I am a psychological and population scientist, Adjunct Professor at **Teachers College, Columbia University**, and researcher affiliated with **UNSW Sydney**.
+I am a psychological and population scientist with expertise in clinical psychology, epidemiology, and biostatistics. I am an Adjunct Professor at **Teachers College, Columbia University**, and a researcher affiliated with **UNSW Sydney**.
 
 For over 16 years my research has focused on trauma, stress, psychological adaptation, social epidemiology, and the measurement of complex human behavior. I have authored or coauthored more than 100 peer-reviewed publications and led research and implementation projects across international academic and humanitarian settings, including the United Nations.
 
