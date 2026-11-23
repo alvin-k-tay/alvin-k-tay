@@ -6,7 +6,7 @@
 
 I am a psychological and population scientist, Adjunct Professor at **Teachers College, Columbia University**, and researcher affiliated with **UNSW Sydney**.
 
-For more than 16 years my research has focused on trauma, stress, psychological adaptation, social epidemiology, and the measurement of complex human behavior. I have authored or coauthored more than 100 peer-reviewed publications and led research and implementation projects across international academic and humanitarian settings, including the United Nations.
+For over 16 years my research has focused on trauma, stress, psychological adaptation, social epidemiology, and the measurement of complex human behavior. I have authored or coauthored more than 100 peer-reviewed publications and led research and implementation projects across international academic and humanitarian settings, including the United Nations.
 
 I am now extending this work into artificial intelligence: building computational measurement tools and investigating how psychological science can inform the evaluation of AI systems.
 
